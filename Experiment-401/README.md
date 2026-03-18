@@ -100,7 +100,8 @@ Interrupt received! , Count is 4
 ```
 
 *(The counter increases each time the interrupt occurs.)*
-
+# Output
+![OUTPUT](Q1.png)
 ---
 
 # Result
