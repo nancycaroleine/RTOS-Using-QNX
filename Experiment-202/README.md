@@ -243,13 +243,10 @@ transit 3 -> 0
 ...
 main, exiting
 ```
-
 *(The sequence alternates between state 2 and state 3 depending on whether the counter is even or odd.)*
-
 ---
-
 # Output
-
+![output](q2.png)
 ---
 
 # Result
