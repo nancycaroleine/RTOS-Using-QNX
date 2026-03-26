@@ -233,7 +233,10 @@ MsgSend return status: 0
 
 # Output
 
----
+# Server
+![output](a1.png)
+# Client
+![output](a2.png)
 
 # Result
 
